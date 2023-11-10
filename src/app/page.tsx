@@ -10,7 +10,7 @@ export default function Home() {
     { name: "Product", href: "#" },
     { name: "Features", href: "#" },
     { name: "Marketplace", href: "#" },
-    { name: "Company", href: "#" },
+    { name: "Company", href: "#s" },
   ];
   return (
     <div className="bg-white">
